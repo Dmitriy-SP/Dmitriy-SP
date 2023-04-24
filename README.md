@@ -2,7 +2,7 @@
 
 ---
 
-At the moment I am studying the program Frontend Developer on the Hexlet platform and studying additional materials.
+I've just graduated Hexlet school and now I'm looking for the new career opportunities as a Junior Frontend developer.
 Previously had experience with C/C++ at university.
 
 I am open to new knowledge and skills and striving for further professional development in the chosen direction.
