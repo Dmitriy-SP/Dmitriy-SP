@@ -2,7 +2,7 @@
 
 ---
 
-I am a frontend developer with more than a year of commercial experience. I have worked in small teams. Although I have experience of individual work, I value teamwork and exchange of experience to achieve common goals more.
+I am a frontend developer. I have worked in small teams. Although I have experience of individual work, I value teamwork and exchange of experience to achieve common goals more.
 I am open to new knowledge and skills, I strive for further professional development in the chosen direction.
 Currently, I am looking for interesting projects where I can apply my skills in the field of web development and contribute to the development of products and business.
 
